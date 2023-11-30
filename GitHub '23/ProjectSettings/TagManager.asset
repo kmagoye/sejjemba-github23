@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deathbox
+  - box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - scale layer
+  - player layer
+  - wall layer
+  - camera layer
+  - goal layer
+  - deathbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: gameplay background
+    uniqueID: 2878905271
+    locked: 0
+  - name: apron layer
+    uniqueID: 2875324363
+    locked: 0
+  - name: slide layer
+    uniqueID: 1429047435
+    locked: 0
+  - name: gameplay foreground
+    uniqueID: 1721080609
+    locked: 0
+  - name: player layer
+    uniqueID: 473755201
+    locked: 0
+  - name: goal layer
+    uniqueID: 4159989025
+    locked: 0
+  - name: final goal layer
+    uniqueID: 206366777
+    locked: 0
